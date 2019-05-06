@@ -1,0 +1,1730 @@
+# Translation of Plugins - YITH WooCommerce Wishlist - Stable (latest release) in English (Canada)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Wishlist - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-03-14 17:18:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Wishlist - Stable (latest release)\n"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:148
+msgctxt "[Part of]: Warning! You didn't set license key for the following products:[Plugins List] which means you're missing out on updates and support. Enter your license key, please."
+msgid "please"
+msgstr "please"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:147
+msgctxt "[Part of]: Warning! You didn't set license key for the following products:[Plugins List] which means you're missing out on updates and support. Enter your license key, please."
+msgid "Enter your license key"
+msgstr "Enter your licence key"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:145
+msgctxt "[Part of]: Warning! You didn't set license key for the following products:[Plugins List] which means you're missing out on updates and support. Enter your license key, please."
+msgid "which means you're missing out on updates and support"
+msgstr "which means you're missing out on updates and support"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:142
+msgctxt "[Part of]: Warning! You didn't set license key for the following products:[Plugins List] which means you're missing out on updates and support. Enter your license key, please."
+msgid "You didn't set license key for the following products"
+msgstr "You didn't set licence key for the following products"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:142
+msgctxt "[Part of]: Warning! You didn't set license key for the following products:[Plugins List] which means you're missing out on updates and support. Enter your license key, please."
+msgid "Warning!"
+msgstr "Warning!"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:50
+msgid "Read this article"
+msgstr "Read this article"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:50
+msgid "Are you having issues with the license activation?"
+msgstr "Are you having issues with the licence activation?"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:33
+msgid "Check expiry date"
+msgstr "Check expiry date"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:30
+msgid "If you have renewed your product license key and the expiry date does not appear up-to-date, please, click on the button <em>Check Expiry Date</em> below and it will update."
+msgstr "If you have renewed your product licence key and the expiry date does not appear up-to-date, please, click on the button <em>Check Expiry Date</em> below and it will update."
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "License expiry date"
+msgstr "Licence expiry date"
+
+#: plugin-fw/lib/yith-dashboard.php:41
+msgid "News from the YITH Blog"
+msgstr "News from the YITH Blog"
+
+#: plugin-fw/lib/yith-dashboard.php:40
+msgid "New YITH products"
+msgstr "New YITH products"
+
+#: plugin-fw/lib/yit-upgrade.php:563
+msgid "<br/><b>Please note:</b> You are using a higher version than the latest available one. </em>Please, make sure you've downloaded the latest version of <em>%1$s</em> from the only <a href=\"https://yithemes.com\" target=\"_blank\">YITH official website</a>, specifically, from your <a href=\"https://yithemes.com/my-account/recent-downloads/\" target=\"_blank\">Downloads page</a>. This is the only way to be sure the version you are using is 100%% malware-free."
+msgstr "<br/><b>Please note:</b> You are using a higher version than the latest available one. </em>Please, make sure you've downloaded the latest version of <em>%1$s</em> from the only <a href=\"https://yithemes.com\" target=\"_blank\">YITH official website</a>, specifically, from your <a href=\"https://yithemes.com/my-account/recent-downloads/\" target=\"_blank\">Downloads page</a>. This is the only way to be sure the version you are using is 100%% malware-free."
+
+#: plugin-fw/lib/yit-upgrade.php:303
+msgctxt "[Update Plugin Message: License not enabled]"
+msgid "You have to activate the plugin to benefit from automatic updates."
+msgstr "You have to activate the plugin to benefit from automatic updates."
+
+#: plugin-fw/lib/yit-upgrade.php:201
+msgid "<br/><b>Please note:</b> You are using a higher version than the latest available one. </em>Please, make sure you've downloaded the latest version of <em>%1$s</em> from the only <a href=\"https://yithemes.com\" target=\"_blank\">YITH official website</a>, specifically, from your <a href=\"https://yithemes.com/my-account/recent-downloads/\" target=\"_blank\">Downloads page</a>. This is the only way to be sure the version you are using is 100% malware-free."
+msgstr "<br/><b>Please note:</b> You are using a higher version than the latest available one. </em>Please, make sure you've downloaded the latest version of <em>%1$s</em> from the only <a href=\"https://yithemes.com\" target=\"_blank\">YITH official website</a>, specifically, from your <a href=\"https://yithemes.com/my-account/recent-downloads/\" target=\"_blank\">Downloads page</a>. This is the only way to be sure the version you are using is 100% malware-free."
+
+#: plugin-fw/licence/lib/yit-licence.php:181
+msgid "Please, insert a valid %s and a valid %s"
+msgstr "Please, insert a valid %s and a valid %s"
+
+#: init.php:130
+msgid "is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "is enabled but not effective. It requires WooCommerce in order to work."
+
+#: includes/class.yith-wcwl-admin-init.php:1018
+msgctxt "[Part Of]: Also, please read the plugin documentation"
+msgid "documentation"
+msgstr "documentation"
+
+#: includes/class.yith-wcwl-admin-init.php:1017
+msgctxt "[Part of]: Also, please read the plugin documentation"
+msgid "Also, please read the plugin"
+msgstr "Also, please read the plugin"
+
+#: includes/class.yith-wcwl-admin-init.php:1016
+msgid "Be sure to select at least one option in the Wishlist page menu in this settings page"
+msgstr "Be sure to select at least one option in the Wishlist page menu in this settings page"
+
+#: includes/class.yith-wcwl-admin-init.php:1015
+msgid "Enable all plugin features"
+msgstr "Enable all plugin features"
+
+#: includes/class.yith-wcwl-shortcode.php:114
+msgid "ID of the wishlist to show (EG: K6EOWXB888ZD)"
+msgstr "ID of the wishlist to show (EG: K6EOWXB888ZD)"
+
+#: includes/class.yith-wcwl-shortcode.php:109
+msgid "Number of items to show for each page"
+msgstr "Number of items to show for each page"
+
+#: includes/class.yith-wcwl-shortcode.php:104
+msgid "Do not paginate"
+msgstr "Do not paginate"
+
+#: includes/class.yith-wcwl-shortcode.php:103
+msgid "Paginate"
+msgstr "Paginate"
+
+#: includes/class.yith-wcwl-shortcode.php:100
+msgid "Choose whether to paginate items in the wishlist or show them all"
+msgstr "Choose whether to paginate items in the wishlist or show them all"
+
+#: includes/class.yith-wcwl-shortcode.php:95
+msgctxt "[gutenberg]: block description"
+msgid "Shows list of products in wishlist"
+msgstr "Shows list of products in wishlist"
+
+#: includes/class.yith-wcwl-shortcode.php:94
+msgctxt "[gutenberg]: block name"
+msgid "YITH Wishlist"
+msgstr "YITH Wishlist"
+
+#: includes/class.yith-wcwl-shortcode.php:86
+msgid "Additional css classes for the button (leave empty to use default)"
+msgstr "Additional css classes for the button (leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:81
+msgid "Icon for the button (use any FontAwesome valid class, or leave empty to use default)"
+msgstr "Icon for the button (use any FontAwesome valid class, or leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:76
+msgid "\"Product added to wishlist\" label (leave empty to use default)"
+msgstr "\"Product added to wishlist\" label (leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:71
+msgid "\"Product already in wishlist\" label (leave empty to use default)"
+msgstr "\"Product already in wishlist\" label (leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:66
+msgid "\"Browse wishlist\" label (leave empty to use default)"
+msgstr "\"Browse wishlist\" label (leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:61
+msgid "Button label (leave empty to use default)"
+msgstr "Button label (leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:56
+msgid "Url of wishlist page (leave empty to use default)"
+msgstr "URL of wishlist page (leave empty to use default)"
+
+#: includes/class.yith-wcwl-shortcode.php:51
+msgid "ID of the product to add to wishlist (leave empty to use global product)"
+msgstr "ID of the product to add to wishlist (leave empty to use global product)"
+
+#: includes/class.yith-wcwl-shortcode.php:46
+msgctxt "[gutenberg]: block description"
+msgid "Shows Add to Wishlist button"
+msgstr "Shows Add to Wishlist button"
+
+#: includes/class.yith-wcwl-shortcode.php:45
+msgctxt "[gutenberg]: block name"
+msgid "YITH Add to Wishlist"
+msgstr "YITH Add to Wishlist"
+
+#: plugin-fw/lib/yith-gutenberg.php:134
+msgctxt "[gutenberg]: Category Name"
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-fw/licence/lib/yit-licence.php:184
+msgid "license key"
+msgstr "licence key"
+
+#: plugin-fw/licence/lib/yit-licence.php:183
+msgid "email address"
+msgstr "email address"
+
+#: plugin-fw/licence/lib/yit-licence.php:180
+msgctxt "%s = field name"
+msgid "Please, insert a valid %s"
+msgstr "Please, insert a valid %s"
+
+#. Description of the plugin
+msgid "<code><strong>YITH WooCommerce Wishlist</strong></code> gives your users the possibility to create, fill, manage and share their wishlists allowing you to analyze their interests and needs to improve your marketing strategies. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>"
+msgstr "<code><strong>YITH WooCommerce Wishlist</strong></code> gives your users the possibility to create, fill, manage and share their wishlists allowing you to analyze their interests and needs to improve your marketing strategies. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH</strong></a>"
+
+#. Author of the plugin
+msgid "YITH"
+msgstr "YITH"
+
+#: plugin-fw/yit-plugin.php:197
+msgid "License"
+msgstr "Licence"
+
+#: plugin-fw/yit-plugin.php:193
+msgctxt "Action links"
+msgid "Settings"
+msgstr "Settings"
+
+#: plugin-fw/yit-plugin.php:98
+msgctxt "Plugin Row Meta"
+msgid "Premium version"
+msgstr "Premium version"
+
+#: plugin-fw/yit-plugin.php:93
+msgctxt "Plugin Row Meta"
+msgid "Support"
+msgstr "Support"
+
+#: plugin-fw/yit-plugin.php:88
+msgctxt "Plugin Row Meta"
+msgid "Documentation"
+msgstr "Documentation"
+
+#: plugin-fw/yit-plugin.php:83
+msgctxt "Plugin Row Meta"
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:24
+msgid "YITH License Activation"
+msgstr "YITH Licence Activation"
+
+#: plugin-fw/lib/yit-upgrade.php:325
+msgid "YITH Repository"
+msgstr "YITH Repository"
+
+#: init.php:140
+msgid "You can't activate the free version of"
+msgstr "You can't activate the free version of"
+
+#: init.php:140
+msgid "while you are using the premium one."
+msgstr "while you are using the premium one."
+
+#: plugin-fw/lib/yit-upgrade.php:95
+msgid "An unexpected error occurred, please try again later. Thanks!"
+msgstr "An unexpected error occurred, please try again later. Thanks!"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:72
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Payments"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:69
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "What we share with others"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:66
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Who on our team has access"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:63
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "What we collect and store"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:59
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+
+#: plugin-fw/lib/privacy/yit-privacy.php:24
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "YITH Plugins"
+
+#: includes/class.yith-wcwl-privacy.php:233
+msgid "Items Added"
+msgstr "Items Added"
+
+#: includes/class.yith-wcwl-privacy.php:232
+msgid "Visibility"
+msgstr "Visibility"
+
+#: includes/class.yith-wcwl-privacy.php:231
+msgctxt "date wishlist was created"
+msgid "Created on"
+msgstr "Created on"
+
+#: includes/class.yith-wcwl-privacy.php:230
+msgid "Title"
+msgstr "Title"
+
+#: includes/class.yith-wcwl-privacy.php:229
+msgid "Wishlist url"
+msgstr "Wishlist url"
+
+#: includes/class.yith-wcwl-privacy.php:228
+msgid "Token"
+msgstr "Token"
+
+#: includes/class.yith-wcwl-privacy.php:210
+msgid "Removed default user's wishlist"
+msgstr "Removed default user's wishlist"
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcwl-privacy.php:199
+msgid "Wishlist %s has been retained."
+msgstr "Wishlist %s has been retained."
+
+#. Translators: %s Order number.
+#: includes/class.yith-wcwl-privacy.php:195
+msgid "Removed wishlist %s."
+msgstr "Removed wishlist %s."
+
+#: includes/class.yith-wcwl-privacy.php:133
+msgid "Wishlists"
+msgstr "Wishlists"
+
+#: includes/class.yith-wcwl-privacy.php:82
+#: includes/class.yith-wcwl-privacy.php:98
+msgid "Customer Wishlists"
+msgstr "Customer Wishlists"
+
+#: includes/class.yith-wcwl-privacy.php:62
+msgid "Our team members have access to this information to offer you better deals for the products you love."
+msgstr "Our team members have access to this information to offer you better deals for the products you love."
+
+#: includes/class.yith-wcwl-privacy.php:60
+msgid "Wishlist details, such as products added, date of addition, name and privacy settings of your wishlists"
+msgstr "Wishlist details, such as products added, date of addition, name and privacy settings of your wishlists"
+
+#: includes/class.yith-wcwl-privacy.php:58
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:"
+msgstr "Members of our team have access to the information you provide us. For example, both Administrators and Shop Managers can access:"
+
+#: includes/class.yith-wcwl-privacy.php:55
+msgid "We’ll also use cookies to keep track of wishlist contents while you’re browsing our site."
+msgstr "We’ll also use cookies to keep track of wishlist contents while you’re browsing our site."
+
+#: includes/class.yith-wcwl-privacy.php:53
+msgid "Wishlists you’ve created: we’ll keep track of the wishlists you create, and make them visible to the store’s staff"
+msgstr "Wishlists you’ve created: we’ll keep track of the wishlists you create, and make them visible to the store’s staff"
+
+#: includes/class.yith-wcwl-privacy.php:52
+msgid "Products you’ve added to the wishlist: we’ll use this to show you and other users your favourite products, and to create targeted email campaigns."
+msgstr "Products you’ve added to the wishlist: we’ll use this to show you and other users your favourite products, and to create targeted email campaigns."
+
+#: includes/class.yith-wcwl-privacy.php:50
+msgid "While you visit our site, we’ll track:"
+msgstr "While you visit our site, we’ll track:"
+
+#: plugin-fw/templates/fields/select-buttons.php:33
+msgid "Deselect All"
+msgstr "Deselect All"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search Product"
+msgstr "Search Product"
+
+#: plugin-fw/templates/fields/ajax-posts.php:57
+msgid "Search Posts"
+msgstr "Search Posts"
+
+#: plugin-fw/templates/fields/select-buttons.php:26
+msgid "Select All"
+msgstr "Select All"
+
+#: plugin-fw/templates/fields/icons.php:58
+msgid "Set Default"
+msgstr "Set Default"
+
+#: templates/wishlist-view.php:303
+msgid "Your email"
+msgstr "Your email"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:106
+msgid "Club Subscription"
+msgstr "Club Subscription"
+
+#: plugin-fw/licence/lib/yit-licence.php:764
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "Current product is not included in your YITH Club Subscription key"
+
+#: plugin-fw/lib/yit-plugin-panel.php:339
+#: plugin-fw/lib/yit-plugin-panel.php:342
+msgid "How to install premium version"
+msgstr "How to install premium version"
+
+#: includes/class.yith-wcwl-admin-init.php:1313
+msgid "It will be used by Pinterest."
+msgstr "It will be used by Pinterest."
+
+#: plugin-fw/templates/fields/upload.php:19
+msgid "Reset"
+msgstr "Reset"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:237
+msgid "Renew license"
+msgstr "Renew licence"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:235
+msgid "Order again"
+msgstr "Order again"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:151
+msgid "Deactivate"
+msgstr "Deactivate"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:47
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "Product to activate"
+msgstr[1] "Products to activate"
+
+#: plugin-fw/licence/lib/yit-licence.php:766
+msgid "License key deactivated for website"
+msgstr "Licence key deactivated for website"
+
+#: plugin-fw/licence/lib/yit-licence.php:765
+msgid "License successfully activated"
+msgstr "Licence successfully activated"
+
+#: plugin-fw/licence/lib/yit-licence.php:765
+msgid "Great"
+msgstr "Great"
+
+#: plugin-fw/licence/lib/yit-licence.php:185
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "Are you sure you want to deactivate the licence for the current site?"
+
+#: templates/admin/wishlist-panel-premium.php:275
+msgid "Your shop offers always a wide selection of products and wishlists of your users get more and more crowded everyday. Give them the possibility to select %1$ssome or all products%2$s in the wishlist and add them to cart just with one click."
+msgstr "Your shop offers always a wide selection of products and wishlists of your users get more and more crowded everyday. Give them the possibility to select %1$ssome or all products%2$s in the wishlist and add them to cart just with one click."
+
+#: templates/admin/wishlist-panel-premium.php:376
+msgid "Activating the %1$s\"Show date of addition\"%2$s option, users can see the date in which they have added a particular product to their list: a new way to keep you users informed about their operations."
+msgstr "Activating the %1$s\"Show date of addition\"%2$s option, users can see the date in which they have added a particular product to their list: a new way to keep you users informed about their operations."
+
+#: templates/admin/wishlist-panel-premium.php:374
+msgid "DATE OF ADDITION TO A WISHLIST"
+msgstr "DATE OF ADDITION TO A WISHLIST"
+
+#: templates/admin/wishlist-panel-premium.php:369
+msgid "DATE"
+msgstr "DATE"
+
+#: templates/admin/wishlist-panel-premium.php:362
+msgid "FROM A WISHLIST"
+msgstr "FROM A WISHLIST"
+
+#: templates/admin/wishlist-panel-premium.php:359
+msgid "Who said that a product has to remain forever in the same wishlist? With the option %1$s\"Show \"Move to another wishlist\" dropdown menu\"%2$s, with just one click users will be free to move a product from a wishlist to another one, managing as they want their lists."
+msgstr "Who said that a product has to remain forever in the same wishlist? With the option %1$s\"Show \"Move to another wishlist\" dropdown menu\"%2$s, with just one click users will be free to move a product from a wishlist to another one, managing as they want their lists."
+
+#: templates/admin/wishlist-panel-premium.php:357
+msgid "FROM A WISHLIST TO ANOTHER"
+msgstr "FROM A WISHLIST TO ANOTHER"
+
+#: templates/admin/wishlist-panel-premium.php:348
+msgid "If you want to give the right input to your users to persuade them to %1$spurchase the products%2$s they have in their wishlists, you need to use this feature! %1$sSend them an email%2$s: customize its whole content from the option panel and add a coupon they can use in your shop, so that they will know you are offering a unique offer!"
+msgstr "If you want to give the right input to your users to persuade them to %1$spurchase the products%2$s they have in their wishlists, you need to use this feature! %1$sSend them an email%2$s: customise its whole content from the options panel and add a coupon they can use in your shop so that they will know you are offering a unique offer!"
+
+#: templates/admin/wishlist-panel-premium.php:341
+#: templates/admin/wishlist-panel-premium.php:346
+msgid "PROMOTIONAL EMAIL"
+msgstr "PROMOTIONAL EMAIL"
+
+#: templates/admin/wishlist-panel-premium.php:334
+msgid "FUNCTIONALITIES"
+msgstr "FUNCTIONALITIES"
+
+#: templates/admin/wishlist-panel-premium.php:331
+msgid "Users have the possibility to search for a wishlist, create a new one or display those already created. Add these %1$sfunctionalities%2$s through the dedicated widgets or show them immediately after \"Wishlist\" table."
+msgstr "Users have the possibility to search for a wishlist, create a new one or display those already created. Add these %1$sfunctionalities%2$s through the dedicated widgets or show them immediately after \"Wishlist\" table."
+
+#: templates/admin/wishlist-panel-premium.php:329
+msgid "FUNCTIONALITIES IN ONE CLICK"
+msgstr "FUNCTIONALITIES IN ONE CLICK"
+
+#: templates/admin/wishlist-panel-premium.php:320
+msgid "Some products draw customer's attention more than others and they do not hesitate to add products to their wishlist. Table %1$s'Popular'%2$s allows you, as shop administrator, to track products that appear most frequently in their wishlists."
+msgstr "Some products draw customer's attention more than others and they do not hesitate to add products to their wishlist. Table %1$s'Popular'%2$s allows you, as shop administrator, to track products that appear most frequently in their wishlists."
+
+#: templates/admin/wishlist-panel-premium.php:313
+#: templates/admin/wishlist-panel-premium.php:318
+msgid "POPULAR TABLE"
+msgstr "POPULAR TABLE"
+
+#: templates/admin/wishlist-panel-premium.php:306
+msgid "UNLOGGED USERS"
+msgstr "UNLOGGED USERS"
+
+#: templates/admin/wishlist-panel-premium.php:303
+msgid "Invite users that are visiting your shop to login if they want to fully benefit from Wishlist functionalities. Show a %1$scustomised message%2$s and redirect them to \"My Account\" page for registration."
+msgstr "Invite users that are visiting your shop to login if they want to fully benefit from Wishlist functionalities. Show a %1$scustomised message%2$s and redirect them to \"My Account\" page for registration."
+
+#: templates/admin/wishlist-panel-premium.php:301
+msgid "MESSAGE TO UNLOGGED USERS"
+msgstr "MESSAGE TO UNLOGGED USERS"
+
+#: templates/admin/wishlist-panel-premium.php:292
+msgid "Favour users that have registered to your shop and disable plugin functionalities for all users that have not. By disabling this option, each time they try to add a product to the wishlist, they will be %1$sredirected%2$s to \"My Account\" page and a message will invite them to log in."
+msgstr "Favour users that have registered to your shop and disable plugin functionalities for all users that have not. By disabling this option, each time they try to add a product to the wishlist, they will be %1$sredirected%2$s to \"My Account\" page and a message will invite them to log in."
+
+#: templates/admin/wishlist-panel-premium.php:290
+msgid "DISABLE WISHLIST FOR UNLOGGED USERS"
+msgstr "DISABLE WISHLIST FOR UNLOGGED USERS"
+
+#: templates/admin/wishlist-panel-premium.php:285
+msgid "DISABLE WISHLIST"
+msgstr "DISABLE WISHLIST"
+
+#: templates/admin/wishlist-panel-premium.php:278
+msgid "'ADD TO CART'"
+msgstr "'ADD TO CART'"
+
+#: templates/admin/wishlist-panel-premium.php:273
+msgid "'ADD TO CART' CHECKBOX"
+msgstr "'ADD TO CART' CHECKBOX"
+
+#: templates/admin/wishlist-panel-premium.php:264
+msgid "How many times have you been looking for the perfect gift for a important event but you had no idea of what to buy? %1$s'Search wishlists'%2$s allows your e-shop users to access public wishlists of anyone, by simply knowing their name or email. This way you can grant %1$shigher visibility%2$s to your products and even encourage users to purchase."
+msgstr "How many times have you been looking for the perfect gift for an important event but you had no idea of what to buy? %1$s'Search wishlists'%2$s allows your e-shop users to access public wishlists of anyone, by simply knowing their name or email. This way you can grant %1$shigher visibility%2$s to your products and even encourage users to purchase."
+
+#: templates/admin/wishlist-panel-premium.php:257
+#: templates/admin/wishlist-panel-premium.php:262
+msgid "Search Wishlists"
+msgstr "Search Wishlists"
+
+#: templates/admin/wishlist-panel-premium.php:247
+msgid "Thanks to the useful Admin panel, accessible directly among the WooCommerce submenu pages, you will have total control on users' wishlists. In addition to that, evaluating the degree of appreciation for your products has never been so easy, now that %1$syou can see a useful report,%2$s available directly in the product page, which registers the occurrences of the product in customers' wish lists."
+msgstr "Thanks to the useful Admin panel, accessible directly among the WooCommerce submenu pages, you will have total control on users' wishlists. In addition to that, evaluating the degree of appreciation for your products has never been so easy, now that %1$syou can see a useful report,%2$s available directly in the product page, which registers the occurrences of the product in customers' wish lists."
+
+#: templates/admin/wishlist-panel-premium.php:245
+#: templates/admin/wishlist-panel-premium.php:250
+msgid "Admin Panel"
+msgstr "Admin Panel"
+
+#: templates/admin/wishlist-panel-premium.php:236
+msgid "%1$sDo you want to add the possibility to ask for estimates of costs into your catalogue?%3$s Do you want to manage customised packets for faithful customers in your store?%2$s%3$sThanks to the feature \"estimate cost\" of %1$sYITH WooCommerce Wishlist%2$s, each registered user will be able to ask for an estimate of their own products in the wishlist and add a text in the popup window that will open just after clicking. Then, they can confirm the text and send an email with all necessary information directly to the address that you have previously set."
+msgstr "%1$sDo you want to add the possibility to ask for estimates of costs into your catalogue?%3$s Do you want to manage customised packets for faithful customers in your store?%2$s%3$sThanks to the feature \"estimated cost\" of %1$sYITH WooCommerce Wishlist%2$s, each registered user will be able to ask for an estimate of their own products in the wishlist and add a text in the popup window that will open just after clicking. Then, they can confirm the text and send an email with all necessary information directly to the address that you have previously set."
+
+#: templates/admin/wishlist-panel-premium.php:229
+#: templates/admin/wishlist-panel-premium.php:234
+msgid "Estimate Cost"
+msgstr "Estimate Cost"
+
+#: templates/admin/wishlist-panel-premium.php:218
+msgid "%1$sprivate:%2$s only the wish list creator can see it."
+msgstr "%1$sprivate:%2$s only the wish list creator can see it."
+
+#: templates/admin/wishlist-panel-premium.php:217
+msgid "%1$sshared:%2$s only users possessing a direct link to the wish list page can display it;"
+msgstr "%1$sshared:%2$s only users possessing a direct link to the wish list page can display it;"
+
+#: templates/admin/wishlist-panel-premium.php:216
+msgid "%1$spublic:%2$s all users can look for your wish list and see it;"
+msgstr "%1$spublic:%2$s all users can look for your wish list and see it;"
+
+#: templates/admin/wishlist-panel-premium.php:214
+msgid "By enabling the option wishlist, users will also have the possibility to %1$smanage the visibility%2$s of their wish lists according to one of the following options:"
+msgstr "By enabling the option wishlist, users will also have the possibility to %1$smanage the visibility%2$s of their wish lists according to one of the following options:"
+
+#: templates/admin/wishlist-panel-premium.php:212
+#: templates/admin/wishlist-panel-premium.php:222
+msgid "Wishlist Private"
+msgstr "Wishlist Private"
+
+#: templates/admin/wishlist-panel-premium.php:203
+msgid "%1$sDoes it ever happened to you to have too many wishes for a single wish list?%2$s%3$s The possibility to manage one's wishes is a fundamental feature in a modern e-commerce store and it also lets users' degree of satisfaction increase.%3$sThe option \"multiple wishlist\" of %1$sYITH Wishlist%2$s makes this feature and many others on your online store available, and thanks to this plugin your customers will be able to create, manage and share their own wish lists."
+msgstr "%1$sDoes it ever happened to you to have too many wishes for a single wish list?%2$s%3$s The possibility to manage one's wishes is a fundamental feature in a modern e-commerce store and it also lets users' degree of satisfaction increase.%3$sThe option \"multiple wishlist\" of %1$sYITH Wishlist%2$s makes this feature and many others on your online store available, and thanks to this plugin your customers will be able to create, manage and share their own wish lists."
+
+#: templates/admin/wishlist-panel-premium.php:196
+#: templates/admin/wishlist-panel-premium.php:201
+msgid "Multiple Wishlist"
+msgstr "Multiple Wishlist"
+
+#: templates/admin/wishlist-panel-premium.php:193
+msgid "Premium Features"
+msgstr "Premium Features"
+
+#: templates/admin/wishlist-panel-premium.php:187
+#: templates/admin/wishlist-panel-premium.php:385
+msgid "%1$sUPGRADE%2$s%3$s to the premium version%2$s"
+msgstr "%1$sUPGRADE%2$s%3$s to the premium version%2$s"
+
+#: templates/admin/wishlist-panel-premium.php:185
+#: templates/admin/wishlist-panel-premium.php:383
+msgid "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s to benefit from all features!"
+msgstr "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Wishlist%2$s to benefit from all features!"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Layout for this %s"
+
+#. Author URI of the plugin
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Plugin URI of the plugin
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-wishlist/"
+
+#: templates/wishlist-view.php:267 templates/wishlist-view.php:313
+msgid "Ask for an estimate"
+msgstr "Ask for an estimate"
+
+#: templates/wishlist-view.php:259
+msgid "Add the selected products to the cart"
+msgstr "Add the selected products to the basket"
+
+#: templates/wishlist-view.php:218 includes/class.yith-wcwl-privacy.php:289
+msgid "Public"
+msgstr "Public"
+
+#: templates/wishlist-view.php:215 includes/class.yith-wcwl-privacy.php:286
+msgid "Private"
+msgstr "Private"
+
+#: templates/wishlist-view.php:212 includes/class.yith-wcwl-privacy.php:283
+msgid "Shared"
+msgstr "Shared"
+
+#: templates/wishlist-view.php:200
+msgid "Move"
+msgstr "Move"
+
+#: templates/wishlist-view.php:188
+msgid "Added on : %s"
+msgstr "Added on : %s"
+
+#: templates/wishlist-view.php:179
+msgid "In Stock"
+msgstr "In Stock"
+
+#: templates/wishlist-view.php:179
+msgid "Out of Stock"
+msgstr "Out of Stock"
+
+#: templates/wishlist-view.php:172
+msgid "Free!"
+msgstr "Free!"
+
+#: templates/wishlist-view.php:152 templates/wishlist-view.php:232
+msgid "Remove this product"
+msgstr "Remove this product"
+
+#: templates/wishlist-view.php:102
+msgid "Stock Status"
+msgstr "Stock Status"
+
+#: templates/wishlist-view.php:89
+msgid "Unit Price"
+msgstr "Unit Price"
+
+#: templates/wishlist-view.php:45
+msgid "Cancel"
+msgstr "Cancel"
+
+#: templates/wishlist-view.php:41
+msgid "Save"
+msgstr "Save"
+
+#: templates/wishlist-view.php:32
+msgid "Edit title"
+msgstr "Edit title"
+
+#: templates/share.php:38
+msgid "Google+"
+msgstr "Google+"
+
+#: templates/share.php:32
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+msgid "Reset Defaults"
+msgstr "Reset Defaults"
+
+#: plugin-fw/templates/fields/sidebars.php:52
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Choose a sidebar"
+msgstr "Choose a sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:25
+msgid "Right sidebar"
+msgstr "Right sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:28
+#: plugin-fw/templates/fields/sidebars.php:31
+msgid "No sidebar"
+msgstr "No sidebar"
+
+#: plugin-fw/templates/fields/sidebars.php:22
+msgid "Left sidebar"
+msgstr "Left sidebar"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete"
+msgstr "Delete"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Add images"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add to gallery"
+msgstr "Add to gallery"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add Images to Gallery"
+msgstr "Add Images to Gallery"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete image"
+msgstr "Delete image"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:92
+msgid "(Default: <i %s></i> )"
+msgstr "(Default: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:90
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Default: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/fields/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr "Do you want to remove the custom tab?"
+
+#: plugin-fw/templates/fields/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Add custom product tab"
+
+#: plugin-fw/templates/fields/customtabs.php:53
+#: plugin-fw/templates/fields/customtabs.php:95
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Content of the tab. (HTML is supported)"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#: plugin-fw/templates/fields/customtabs.php:94
+msgid "Value"
+msgstr "Value"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Expand all"
+msgstr "Expand all"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Close all"
+msgstr "Close all"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:76
+msgid "Image preview"
+msgstr "Image preview"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:70
+#: plugin-fw/templates/fields/upload.php:18
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Upload"
+
+#: plugin-fw/templates/fields/customtabs.php:37
+#: plugin-fw/templates/fields/customtabs.php:81 templates/wishlist-view.php:232
+msgid "Remove"
+msgstr "Remove"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:199
+msgid "Expired"
+msgstr "Expired"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:169
+msgid "Banned"
+msgstr "Banned"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:135
+msgid "%1s out of %2s"
+msgstr "%1s out of %2s"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:156
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:213
+msgid "Renew"
+msgstr "Renew"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:104
+msgid "Remaining"
+msgstr "Remaining"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:210
+msgid "Expires"
+msgstr "Expires"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:98
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:176
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:207
+msgid "License Key"
+msgstr "Licence Key"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:175
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:206
+#: templates/share.php:44
+msgid "Email"
+msgstr "Email"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:173
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:203
+#: templates/wishlist-view.php:82
+msgid "Product Name"
+msgstr "Product Name"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+msgid "Activated"
+msgstr "Activated"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:70
+msgid "Activate"
+msgstr "Activate"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YITH account, in section \"My licenses\"."
+msgstr ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the licence)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new licence key, because, before this date, your licence used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new licence and activate it through the licence key you will be\n"
+"                    provided with and that you can find in your YITH account, in section \"My licences\"."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "I cannot find the licence key for activating the theme I have bought some time ago. Where can I find it?"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "Licence Activation"
+
+#: plugin-fw/licence/lib/yit-licence.php:763
+msgid "License key has been banned"
+msgstr "Licence key has been banned"
+
+#: plugin-fw/licence/lib/yit-licence.php:762
+msgid "License key has expired"
+msgstr "Licence key has expired"
+
+#: plugin-fw/licence/lib/yit-licence.php:761
+msgid "Invalid security key"
+msgstr "Invalid security key"
+
+#: plugin-fw/licence/lib/yit-licence.php:760
+msgid "Invalid instance ID"
+msgstr "Invalid instance ID"
+
+#: plugin-fw/licence/lib/yit-licence.php:759
+msgid "Maximum number of activations exceeded"
+msgstr "Maximum number of activations exceeded"
+
+#: plugin-fw/licence/lib/yit-licence.php:758
+msgid "Software has been deactivated"
+msgstr "Software has been deactivated"
+
+#: plugin-fw/licence/lib/yit-licence.php:757
+msgid "Invalid license key"
+msgstr "Invalid licence key"
+
+#: plugin-fw/licence/lib/yit-licence.php:756
+msgid "Invalid Request"
+msgstr "Invalid Request"
+
+#: plugin-fw/licence/lib/yit-licence.php:182
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "Unable to contact the remote server, please try again later. Thanks!"
+
+#: plugin-fw/lib/yit-upgrade.php:646
+msgid "Update Plugin"
+msgstr "Update Plugin"
+
+#: plugin-fw/lib/yit-upgrade.php:639
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "You do not have sufficient permissions to update the plugins for this site."
+
+#: plugin-fw/lib/yit-upgrade.php:635
+msgid "You can't update the plugins for this site."
+msgstr "You can't update the plugins for this site."
+
+#: plugin-fw/lib/yit-upgrade.php:559
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:555
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"Licence activation\">activate</a> your copy of %6s.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:551
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:547
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:372
+msgid "Could not create Temporary file."
+msgstr "Could not create Temporary file."
+
+#: plugin-fw/lib/yit-upgrade.php:359
+msgid "Invalid URL Provided."
+msgstr "Invalid URL Provided."
+
+#: plugin-fw/lib/yit-upgrade.php:200
+msgid "Update now."
+msgstr "Update now."
+
+#: plugin-fw/lib/yit-upgrade.php:199
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+
+#: plugin-fw/lib/yit-upgrade.php:198
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "Automatic update is unavailable for this plugin,"
+
+#: plugin-fw/lib/yit-upgrade.php:197
+msgid "View version %latest% details."
+msgstr "View version %latest% details."
+
+#: plugin-fw/lib/yit-upgrade.php:196
+msgid "There is a new version of %plugin_name% available."
+msgstr "There is a new version of %plugin_name% available."
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"From now on, you can find the options panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from the previous location to YITH Plugins tab."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Plugins Upgraded"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "and"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Discover all our plugins available on:"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customisation settings will be available as a new entry in YITH Plugins menu."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Plugins Activated"
+
+#: plugin-fw/lib/yit-plugin-panel.php:543
+msgid "Sorting successful."
+msgstr "Sorting successful."
+
+#: plugin-fw/lib/yit-plugin-panel.php:542
+msgid "Sorry, import is disabled."
+msgstr "Sorry, import is disabled."
+
+#: plugin-fw/lib/yit-plugin-panel.php:541
+msgid "The added file is not valid."
+msgstr "The added file is not valid."
+
+#: plugin-fw/lib/yit-plugin-panel.php:540
+msgid "An error has occurred during import. Please try again."
+msgstr "An error has occurred during import. Please try again."
+
+#: plugin-fw/lib/yit-plugin-panel.php:539
+msgid "Database imported correctly."
+msgstr "Database imported correctly."
+
+#: plugin-fw/lib/yit-plugin-panel.php:537
+#: plugin-fw/lib/yit-plugin-panel.php:538
+msgid "Element updated correctly."
+msgstr "Element updated correctly."
+
+#: plugin-fw/lib/yit-plugin-panel.php:536
+msgid "Element deleted correctly."
+msgstr "Element deleted correctly."
+
+#: plugin-fw/lib/yit-plugin-panel.php:535
+msgid "Settings reset"
+msgstr "Settings reset"
+
+#: plugin-fw/lib/yit-plugin-panel.php:534
+msgid "Settings saved"
+msgstr "Settings saved"
+
+#: plugin-fw/lib/yit-plugin-panel.php:533
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "The element you have entered already exists. Please, enter another name."
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+#: plugin-fw/lib/yit-plugin-subpanel.php:162
+#: plugin-fw/lib/yit-plugin-panel.php:399
+msgid "Are you sure?"
+msgstr "Are you sure?"
+
+#: plugin-fw/lib/yit-plugin-subpanel.php:161
+#: plugin-fw/lib/yit-plugin-panel.php:398
+msgid "Reset to default"
+msgstr "Reset to default"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+#: plugin-fw/lib/yit-plugin-subpanel.php:159
+#: plugin-fw/lib/yit-plugin-panel.php:396
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "If you continue with this action, you will reset all options in this page."
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:11
+#: plugin-fw/lib/yit-plugin-subpanel.php:156
+#: plugin-fw/lib/yit-plugin-panel.php:393
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: plugin-fw/lib/yit-plugin-panel.php:72
+msgid "Plugin Settings"
+msgstr "Plugin Settings"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:384
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "The changes you have made will be lost if you leave this page."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "Upload multiple files"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "Add %s from images"
+
+#: plugin-fw/templates/fields/customtabs.php:46
+#: plugin-fw/templates/fields/customtabs.php:89
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+msgid "Name"
+msgstr "Name"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Show frontend of the %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Quick links"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "layout settings"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "Layout for single page of this portfolio"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Single layout"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Set univocal name for each category page URL."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Taxonomy Rewrite"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "If you want to use categories in the portfolio, set a name for taxonomy. The name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Set a label in plural (title of portfolio if empty)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "Label in Plural"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Set a label in singular (title of portfolio if empty)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "Label in Singular"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Univocal identification name in the URL for each product (slug from post if empty)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Rewrite"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Type"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s Settings"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Categories"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Category"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "New Category Name"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Add New Category"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Update Category"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Edit Category"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Parent Category:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Parent Category"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "All Categories"
+
+#: plugin-fw/templates/fields/ajax-terms.php:56
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+msgid "Search Categories"
+msgstr "Search categories"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Category"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s Categories"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "No %s found in Trash"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "No %s found"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Search %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "View %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "All %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "New %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Add New %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "Add %s"
+
+#: includes/class.yith-wcwl.php:1660
+msgid "An error as occurred."
+msgstr "An error as occurred."
+
+#: templates/wishlist-view.php:242 includes/class.yith-wcwl.php:1618
+msgid "No products were added to the wishlist"
+msgstr "No products were added to the wishlist"
+
+#: includes/class.yith-wcwl.php:1614
+msgid "Error. Unable to remove the product from the wishlist."
+msgstr "Error. Unable to remove the product from the wishlist."
+
+#: includes/class.yith-wcwl.php:1610
+msgid "Product successfully removed."
+msgstr "Product successfully removed."
+
+#: includes/class.yith-wcwl.php:809
+msgid "You need to log in before creating a new wishlist"
+msgstr "You need to log in before creating a new wishlist"
+
+#: includes/class.yith-wcwl.php:359
+msgid "An error occurred while removing products from the wishlist"
+msgstr "An error occurred while removing products from the wishlist"
+
+#: includes/class.yith-wcwl.php:310
+msgid "The \"Remove\" option now does not require any parameter"
+msgstr "The \"Remove\" option now does not require any parameter"
+
+#: includes/class.yith-wcwl.php:293
+msgid "An error occurred while adding products to wishlist."
+msgstr "An error occurred while adding products to wishlist."
+
+#: includes/class.yith-wcwl.php:201
+msgid "An error occurred while adding products to the wishlist."
+msgstr "An error occurred while adding products to the wishlist."
+
+#: includes/class.yith-wcwl-ui.php:180
+msgid "email"
+msgstr "email"
+
+#: templates/share.php:26 includes/class.yith-wcwl-ui.php:171
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/share.php:20 includes/class.yith-wcwl-ui.php:168
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/class.yith-wcwl-ui.php:118 includes/class.yith-wcwl-ui.php:200
+msgid "Select options"
+msgstr "Select options"
+
+#: includes/class.yith-wcwl-ui.php:164
+#: includes/class.yith-wcwl-shortcode.php:386
+msgid "Share on:"
+msgstr "Share on:"
+
+#: includes/class.yith-wcwl-install.php:244
+msgctxt "page_slug"
+msgid "wishlist"
+msgstr "wishlist"
+
+#: includes/class.yith-wcwl-init.php:438
+msgid "Product correctly added to cart"
+msgstr "Product correctly added to cart"
+
+#: includes/class.yith-wcwl-init.php:437
+msgid "We are sorry, but this feature is available only if cookies are enabled on your browser."
+msgstr "We are sorry, but this feature is available only if cookies are enabled on your browser."
+
+#: includes/class.yith-wcwl-admin-init.php:1563
+msgid "From now on, you can find all the options of Wishlist under YIT Plugin -> Wishlist instead of WooCommerce -> Settings -> Wishlist, as in the previous version. When one of our plugins is updated, a new voice will be added to this menu. Wishlist has been updated with new available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr "From now on, you can find all the options of Wishlist under YITH Plugin -> Wishlist instead of WooCommerce -> Settings -> Wishlist, as in the previous version. When one of our plugins is updated, a new entry will be added to this menu. Wishlist has been updated with new available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+
+#: includes/class.yith-wcwl-admin-init.php:1562
+msgid "Wishlist Updated"
+msgstr "Wishlist Updated"
+
+#: includes/class.yith-wcwl-admin-init.php:1551
+msgid "In the YIT Plugin tab you can find the Wishlist options. With this menu, you can access to all the settings of our plugins that you have activated. Wishlist is available in an outstanding PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr "In the YITH Plugin tab, you can find the Wishlist options. With this menu, you can access to all the settings of our plugins that you have activated. Wishlist is available in an outstanding PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+
+#: includes/class.yith-wcwl-admin-init.php:1550
+msgid "Wishlist Activated"
+msgstr "Wishlist Activated"
+
+#: includes/class.yith-wcwl-admin-init.php:1460
+msgid "Background color"
+msgstr "Background colour"
+
+#: includes/class.yith-wcwl-admin-init.php:1457
+msgid "Headers"
+msgstr "Headers"
+
+#: includes/class.yith-wcwl-admin-init.php:1448
+msgid "Wishlist table"
+msgstr "Wishlist table"
+
+#: includes/class.yith-wcwl-admin-init.php:1430
+msgid "\"Style 2\" button"
+msgstr "\"Style 2\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1412
+msgid "\"Style 1\" button"
+msgstr "\"Style 1\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1394
+msgid "\"Add to Cart\" button"
+msgstr "\"Add to Basket\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1390
+#: includes/class.yith-wcwl-admin-init.php:1408
+#: includes/class.yith-wcwl-admin-init.php:1426
+#: includes/class.yith-wcwl-admin-init.php:1444
+msgid "Border (hover)"
+msgstr "Border (hover)"
+
+#: includes/class.yith-wcwl-admin-init.php:1389
+#: includes/class.yith-wcwl-admin-init.php:1407
+#: includes/class.yith-wcwl-admin-init.php:1425
+#: includes/class.yith-wcwl-admin-init.php:1443
+msgid "Text (hover)"
+msgstr "Text (hover)"
+
+#: includes/class.yith-wcwl-admin-init.php:1388
+#: includes/class.yith-wcwl-admin-init.php:1406
+#: includes/class.yith-wcwl-admin-init.php:1424
+#: includes/class.yith-wcwl-admin-init.php:1442
+msgid "Background (hover)"
+msgstr "Background (hover)"
+
+#: includes/class.yith-wcwl-admin-init.php:1381
+#: includes/class.yith-wcwl-admin-init.php:1399
+#: includes/class.yith-wcwl-admin-init.php:1417
+#: includes/class.yith-wcwl-admin-init.php:1435
+#: includes/class.yith-wcwl-admin-init.php:1453
+msgid "Border"
+msgstr "Border"
+
+#: includes/class.yith-wcwl-admin-init.php:1380
+#: includes/class.yith-wcwl-admin-init.php:1398
+#: includes/class.yith-wcwl-admin-init.php:1416
+#: includes/class.yith-wcwl-admin-init.php:1434
+#: includes/class.yith-wcwl-admin-init.php:1452
+msgid "Text"
+msgstr "Text"
+
+#: includes/class.yith-wcwl-admin-init.php:1379
+#: includes/class.yith-wcwl-admin-init.php:1397
+#: includes/class.yith-wcwl-admin-init.php:1415
+#: includes/class.yith-wcwl-admin-init.php:1433
+#: includes/class.yith-wcwl-admin-init.php:1451
+msgid "Background"
+msgstr "Background"
+
+#: includes/class.yith-wcwl-admin-init.php:1376
+msgid "\"Add to wishlist\" button"
+msgstr "\"Add to wishlist\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1340
+msgid "Choose to enable product slider in wishlist page with linked products (<a href=\"%s\" class=\"thickbox\">Example</a>). %s"
+msgstr "Choose to enable product slider in wishlist page with linked products (<a href=\"%s\" class=\"thickbox\">Example</a>). %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1339
+msgid "Enable slider in wishlist"
+msgstr "Enable slider in wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1332
+msgid "YITH WooCommerce Frequently Bought Together Integration"
+msgstr "YITH WooCommerce Frequently Bought Together Integration"
+
+#: includes/class.yith-wcwl-admin-init.php:1327
+msgid "If you want to take advantage of this feature, you could consider to purchase the %s."
+msgstr "If you want to take advantage of this feature, you could consider to purchase the %s."
+
+#: includes/class.yith-wcwl-admin-init.php:1312
+msgid "Social image URL"
+msgstr "Social image URL"
+
+#: includes/class.yith-wcwl-admin-init.php:1305
+msgid "It will be used by Twitter and Pinterest. Use <strong>%wishlist_url%</strong> where you want to show the URL of your wishlist."
+msgstr "It will be used by Twitter and Pinterest. Use <strong>%wishlist_url%</strong> where you want to show the URL of your wishlist."
+
+#: includes/class.yith-wcwl-admin-init.php:1304
+msgid "Social text"
+msgstr "Social text"
+
+#: includes/class.yith-wcwl-admin-init.php:1297
+msgid "Social title"
+msgstr "Social title"
+
+#: includes/class.yith-wcwl-admin-init.php:1291
+msgid "Show \"Share by Email\" button"
+msgstr "Show \"Share by Email\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1290
+msgid "Share by Email"
+msgstr "Share by Email"
+
+#: includes/class.yith-wcwl-admin-init.php:1284
+msgid "Show \"Share on Google+\" button"
+msgstr "Show \"Share on Google+\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1283
+msgid "Share on Google+"
+msgstr "Share on Google+"
+
+#: includes/class.yith-wcwl-admin-init.php:1277
+msgid "Show \"Pin on Pinterest\" button"
+msgstr "Show \"Pin on Pinterest\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1276
+msgid "Pin on Pinterest"
+msgstr "Pin on Pinterest"
+
+#: includes/class.yith-wcwl-admin-init.php:1270
+msgid "Show \"Tweet on Twitter\" button"
+msgstr "Show \"Tweet on Twitter\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1269
+msgid "Tweet on Twitter"
+msgstr "Tweet on Twitter"
+
+#: includes/class.yith-wcwl-admin-init.php:1263
+msgid "Show \"Share on Facebook\" button"
+msgstr "Show \"Share on Facebook\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1262
+msgid "Share on Facebook"
+msgstr "Share on Facebook"
+
+#: includes/class.yith-wcwl-admin-init.php:1255
+msgid "Social Networks & Share"
+msgstr "Social Networks & Share"
+
+#: includes/class.yith-wcwl-admin-init.php:1237
+msgid "Add an icon to the \"Add to Cart\" button"
+msgstr "Add an icon to the \"Add to Basket\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1236
+msgid "\"Add to Cart\" icon"
+msgstr "\"Add to Basket\" icon"
+
+#: includes/class.yith-wcwl-admin-init.php:1226
+msgid "Add an icon to the \"Add to Wishlist\" button"
+msgstr "Add an icon to the \"Add to Wishlist\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1225
+msgid "\"Add to Wishlist\" icon"
+msgstr "\"Add to Wishlist\" icon"
+
+#: includes/class.yith-wcwl-admin-init.php:1219
+msgid "Make button corners rounded"
+msgstr "Make button corners rounded"
+
+#: includes/class.yith-wcwl-admin-init.php:1218
+msgid "Rounded buttons"
+msgstr "Rounded buttons"
+
+#: includes/class.yith-wcwl-admin-init.php:1212
+msgid "Use the theme style."
+msgstr "Use the theme style."
+
+#: includes/class.yith-wcwl-admin-init.php:1211
+msgid "Use theme style"
+msgstr "Use theme style"
+
+#: includes/class.yith-wcwl-admin-init.php:1204
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: includes/class.yith-wcwl-admin-init.php:1198
+msgid "Use buttons instead of simple anchors."
+msgstr "Use buttons instead of simple anchors."
+
+#: includes/class.yith-wcwl-admin-init.php:1197
+msgid "Use buttons"
+msgstr "Use buttons"
+
+#: includes/class.yith-wcwl-admin-init.php:1190
+msgid "Styles"
+msgstr "Styles"
+
+#: includes/class.yith-wcwl-admin-init.php:1175
+msgid "Add a second remove button in the last column, with extended label"
+msgstr "Add a second remove button in the last column, with extended label"
+
+#: includes/class.yith-wcwl-admin-init.php:1174
+msgid "Add second remove button"
+msgstr "Add second remove button"
+
+#: includes/class.yith-wcwl-admin-init.php:1167
+msgid "Show the date when users have added a product to the wishlist"
+msgstr "Show the date when users have added a product to the wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1166
+msgid "Show Date of addition"
+msgstr "Show Date of addition"
+
+#: includes/class.yith-wcwl-admin-init.php:1159
+msgid "Show \"In stock\" or \"Out of stock\" label for each product in wishlist"
+msgstr "Show \"In stock\" or \"Out of stock\" label for each product in wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1158
+msgid "Show Stock status"
+msgstr "Show Stock status"
+
+#: includes/class.yith-wcwl-admin-init.php:1151
+msgid "Show \"Add to Cart\" button for each product in wishlist"
+msgstr "Show \"Add to Cart\" button for each product in wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1150
+msgid "Show \"Add to Cart\" button"
+msgstr "Show \"Add to Cart\" button"
+
+#: includes/class.yith-wcwl-admin-init.php:1143
+msgid "Show unit price for each product in wishlist"
+msgstr "Show unit price for each product in wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1142
+msgid "Show Unit price"
+msgstr "Show Unit price"
+
+#: includes/class.yith-wcwl-admin-init.php:1137
+msgid "Add to Cart"
+msgstr "Add to Basket"
+
+#: includes/class.yith-wcwl-admin-init.php:1135
+msgid "\"Add to Cart\" text"
+msgstr "\"Add to Basket\" text"
+
+#: includes/class.yith-wcwl-ui.php:82
+#: includes/class.yith-wcwl-admin-init.php:1130
+msgid "Product added!"
+msgstr "Product added!"
+
+#: includes/class.yith-wcwl-admin-init.php:1128
+msgid "\"Product added\" text"
+msgstr "\"Product added\" text"
+
+#: includes/class.yith-wcwl-ui.php:83
+#: includes/class.yith-wcwl-admin-init.php:1123
+msgid "The product is already in the wishlist!"
+msgstr "The product is already in the wishlist!"
+
+#: includes/class.yith-wcwl-admin-init.php:1121
+msgid "\"Product already in wishlist\" text"
+msgstr "\"Product already in wishlist\" text"
+
+#: includes/class.yith-wcwl-ui.php:82 includes/class.yith-wcwl-ui.php:83
+#: includes/class.yith-wcwl-admin-init.php:1116
+msgid "Browse Wishlist"
+msgstr "Browse Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1114
+msgid "\"Browse wishlist\" text"
+msgstr "\"Browse wishlist\" text"
+
+#: includes/class.yith-wcwl-admin-init.php:1109
+msgid "Add to Wishlist"
+msgstr "Add to Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1107
+msgid "\"Add to Wishlist\" text"
+msgstr "\"Add to Wishlist\" text"
+
+#: includes/class.yith-wcwl-admin-init.php:1101
+msgid "Remove the product from the wishlist if it has been added to the cart."
+msgstr "Remove the product from the wishlist if it has been added to the cart."
+
+#: includes/class.yith-wcwl-admin-init.php:1100
+msgid "Remove if added to the cart"
+msgstr "Remove if added to the cart"
+
+#: includes/class.yith-wcwl-admin-init.php:1094
+msgid "Redirect to cart page if \"Add to cart\" button is clicked in the wishlist page."
+msgstr "Redirect to cart page if \"Add to cart\" button is clicked in the wishlist page."
+
+#: includes/class.yith-wcwl-admin-init.php:1093
+msgid "Redirect to cart"
+msgstr "Redirect to cart"
+
+#: includes/class.yith-wcwl-admin-init.php:1088
+msgid "Use shortcode"
+msgstr "Use shortcode"
+
+#: includes/class.yith-wcwl-admin-init.php:1087
+msgid "After summary"
+msgstr "After summary"
+
+#: includes/class.yith-wcwl-admin-init.php:1086
+msgid "After thumbnails"
+msgstr "After thumbnails"
+
+#: includes/class.yith-wcwl-admin-init.php:1085
+msgid "After \"Add to cart\""
+msgstr "After \"Add to basket\""
+
+#: includes/class.yith-wcwl-admin-init.php:1079
+msgid "You can add the button in variable products only after the \"Add to Cart\" button or using the shortcode [yith_wcwl_add_to_wishlist]."
+msgstr "You can add the button in variable products only after the \"Add to Cart\" button or using the shortcode [yith_wcwl_add_to_wishlist]."
+
+#: includes/class.yith-wcwl-admin-init.php:1078
+msgid "Position"
+msgstr "Position"
+
+#: includes/class.yith-wcwl-admin-init.php:1062
+#: includes/class.yith-wcwl-admin-init.php:1063
+#: includes/class.yith-wcwl-admin-init.php:1299
+msgid "My wishlist on %s"
+msgstr "My wishlist on %s"
+
+#: includes/class.yith-wcwl-admin-init.php:1060
+msgid "Default wishlist title"
+msgstr "Default wishlist title"
+
+#: includes/class.yith-wcwl-admin-init.php:1053
+msgid "Enable YITH Wishlist"
+msgstr "Enable YITH Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1046
+msgid "General Settings"
+msgstr "General Settings"
+
+#: includes/class.yith-wcwl-admin-init.php:1036
+msgid "By purchasing the premium version of the plugin, you will take advantage of the advanced features of the product and you will get one year of free updates and support through our platform available 24h/24."
+msgstr "By purchasing the premium version of the plugin, you will take advantage of the advanced features of the product and you will get one year of free updates and support through our platform available 24h/24."
+
+#: includes/class.yith-wcwl-admin-init.php:1035
+msgid "Get Support and Pro Features"
+msgstr "Get Support and Pro Features"
+
+#: includes/class.yith-wcwl-admin-init.php:1029
+msgid "Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE WISHLIST to benefit from all features!"
+msgstr "Upgrade to the PREMIUM VERSION of YITH WOOCOMMERCE WISHLIST to benefit from all features!"
+
+#: includes/class.yith-wcwl-admin-init.php:1028
+msgid "Discover the Advanced Features"
+msgstr "Discover the Advanced Features"
+
+#. Plugin Name of the plugin
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Wishlist"
+
+#: includes/class.yith-wcwl-admin-init.php:1024
+msgid "Upgrade to the PREMIUM VERSION"
+msgstr "Upgrade to the PREMIUM VERSION"
+
+#: includes/class.yith-wcwl-admin-init.php:1069
+msgid "Page contents: [yith_wcwl_wishlist]"
+msgstr "Page contents: [yith_wcwl_wishlist]"
+
+#: includes/class.yith-wcwl-admin-init.php:1068
+msgid "Wishlist Page"
+msgstr "Wishlist Page"
+
+#: includes/class.yith-wcwl-admin-init.php:163
+msgid "Premium Version"
+msgstr "Premium Version"
+
+#: includes/class.yith-wcwl-admin-init.php:162
+#: includes/class.yith-wcwl-admin-init.php:243
+msgid "Colors"
+msgstr "Colours"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:73
+#: includes/class.yith-wcwl-admin-init.php:161
+msgid "Settings"
+msgstr "Settings"
+
+#: includes/class.yith-wcwl-install.php:245
+#: includes/class.yith-wcwl-admin-init.php:159
+#: includes/class.yith-wcwl-admin-init.php:1484
+#: includes/class.yith-wcwl-admin-init.php:1485
+msgid "Wishlist"
+msgstr "Wishlist"

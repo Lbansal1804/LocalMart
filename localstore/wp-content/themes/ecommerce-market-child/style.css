@@ -1,0 +1,177 @@
+/*
+Theme Name: ecommerce-market-child Theme
+Author: Lakhbir
+Description: Child theme practice
+Version: 1.0.1
+Template: ecommerce-market
+Tags: New Theme
+*/
+
+.site-title{
+	font-family: "Times New Roman";
+	font-size: 40px;
+	font-style: italic;
+	display: inline-block;
+}
+
+.slider-text p{
+	color: #f9ba00;
+	
+}
+
+p {
+	color: #ffffff;
+	font-size: 14px;
+	margin: 0 0 22px;
+}
+
+        .read-more {
+        	background: #f9ba00;
+			color: #ffffff;
+        	border-radius: 25px;
+        	padding: 10px 27px;
+        	text-transform: uppercase;
+        }
+		.read-more:hover{
+        	background: #676767;
+        }
+		
+		a{
+			color: #fff;
+			text-decoration: none;
+		}	
+		
+		#tab-title-description{
+			background: #f9ba00;
+			color: #fff;
+		}
+		
+		#tab-title-description a{
+			background: #f9ba00;
+			color: #fff;
+		}
+		
+		#tab-title-reviews{
+			background: #f9ba00;
+			margin-left: 10px;
+			color: #fff;
+		}
+		
+		#tab-title-reviews a{
+			background: #f9ba00;
+			color: #fff;
+		}
+		
+		.comment-form{
+			color: #f9ba00;
+		}
+		
+		.comment-form [for="author"], .comment-form [for="email"], .comment-form [for="comment"]{
+			color: #f9ba00;
+		}
+		
+		.woocommerce-Reviews .select2-container--default .select2-selection--single{
+			padding: 1px;
+			border: 0px solid #ccc;
+			color: #f9ba00;
+		}
+		
+		.select2-container--default .select2-selection--single .select2-selection__rendered{
+			color: #f9ba00;
+			font-style: bold;
+			font-size: 15px;
+		}
+		
+		.quantity .minus, .quantity .plus{
+			color: #f9ba00;
+			padding: 10px;
+			
+		}
+		
+		.woocommerce .quantity .qty {
+			padding: 0px;
+			margin: 4px;
+		}
+		
+		.quantity .minus:hover, .quantity .plus:hover{
+			color: #fff;
+		}
+		
+		.woocommerce form .form-row label, .woocommerce-page form .form-row label{
+			color: #f9ba00;
+			
+		}
+		
+		.site-content h1, .site-content h3, .site-content h4, .site-content h5, .site-content h6{
+			color: #f9ba00;
+			border: 2px solid #f9ba00;
+			border-radius: 25px;
+			width: 200px;
+			padding: 10px;
+			margin: 20px;
+			text-align: center;
+			
+		}
+		
+		.woocommerce-notices-wrapper h2{
+			color: #f9ba00;
+		}
+		
+		.wpcf7-form input, .wpcf7-form textarea{
+			border-radius: 15px;
+		}
+		
+		.woocommerce-ordering .select2-container--default .select2-selection--single{
+			padding: 1px;
+			border: 0px solid #ccc;
+			color: #f9ba00;
+		}
+		
+		.woocommerce ul.products li.product .price{
+			
+			margin-top: 1.0em;
+			font-size: 1.05em;
+			margin-bottom: 0.2em;
+		}
+		
+		.contact-information p, .contact-information a, .contact-information li, .copy-right {
+			color: #f9ba00;
+		}
+		
+		.woocommerce table.shop_table th {
+			    background: #f9ba00;
+				color: #fff;
+				
+		}
+		
+		.woocommerce .coupon input.button{
+			background: #f9ba00;
+		}
+		
+		.woocommerce-page #content table.cart td.actions .coupon-wrapper .input-text{
+			border-radius: 19px;
+			
+		}
+		
+		.calculated-shipping-wrap{
+			background: #fff;
+			width: 80em;
+		}
+		
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button.button.alt.wc-forward{			border-radius: 14px;
+			margin-top: 47px;
+		}
+		
+		.woocommerce-cart .wc-proceed-to-checkout {
+			background: #000;
+		}
+		
+		.entry-meta, .entry-meta a, .entry-meta .cat-links, .entry-meta .cat-links a{
+			color: black;
+		}
+
+
+
+
+		
+		

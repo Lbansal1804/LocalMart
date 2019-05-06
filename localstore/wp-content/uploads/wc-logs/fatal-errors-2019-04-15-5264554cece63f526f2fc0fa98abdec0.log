@@ -1,0 +1,36 @@
+2019-04-15T18:21:11+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 14
+
+2019-04-15T18:21:13+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 14
+
+2019-04-15T18:21:14+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 14
+
+2019-04-15T18:25:28+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 27
+
+2019-04-15T18:25:32+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 27
+
+2019-04-15T18:25:32+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 27
+
+2019-04-15T18:26:18+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 52
+
+2019-04-15T18:26:21+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 52
+
+2019-04-15T18:26:22+00:00 CRITICAL syntax error, unexpected '-', expecting '(' in C:\xampp\htdocs\localstore\wp-content\plugins\text-to-post.php on line 52
+
+2019-04-15T18:55:21+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 65536 bytes) in C:\xampp\htdocs\localstore\wp-content\plugins\jetpack\modules\videopress\utility-functions.php on line 332
+
+2019-04-15T18:55:21+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 65536 bytes) in C:\xampp\htdocs\localstore\wp-content\plugins\jetpack\modules\videopress\utility-functions.php on line 332
+
+2019-04-15T18:55:21+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 65536 bytes) in C:\xampp\htdocs\localstore\wp-content\plugins\jetpack\modules\videopress\utility-functions.php on line 332
+
+2019-04-15T18:55:21+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 65536 bytes) in C:\xampp\htdocs\localstore\wp-content\plugins\jetpack\modules\videopress\utility-functions.php on line 332
+
+2019-04-15T18:55:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\localstore\wp-includes\functions.php on line 5462
+
+2019-04-15T18:55:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\localstore\wp-includes\pomo\entry.php on line 86
+
+2019-04-15T18:55:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\localstore\wp-content\plugins\woocommerce-shipstation-integration\includes\data\data-settings.php on line 3
+
+2019-04-15T18:55:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\localstore\wp-content\plugins\woocommerce-shipstation-integration\includes\data\data-settings.php on line 3
+
+2019-04-15T18:55:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\localstore\wp-content\plugins\woocommerce-shipstation-integration\includes\data\data-settings.php on line 3
+
